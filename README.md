@@ -1,4 +1,4 @@
-# Gestion_conference
+# Gestion conference, school project
 School Java project in eclipse IDE about a company's conference management
 
 ## Instructions:
