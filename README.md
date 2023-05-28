@@ -1,7 +1,7 @@
 # Gestion_conference
 School Java project in eclipse IDE about a company's conference management
 
-#Instructions:
+## Instructions:
 
 -Create a Java class to manage presentations for a conference.
 
